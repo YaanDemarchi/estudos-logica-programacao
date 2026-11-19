@@ -1,0 +1,36 @@
+
+AULA 03 - Operadores matemáticos 
+
+Operadores são símbolos que usamos para realizar operações com valores. Em programação, eles nos permitem fazer cálculos, comparar números e manipular dados.
+1. Os operadores básicos
+Operador	Nome	Exemplo	Resultado
++	Soma	5 + 3	8
+-	Subtração	10 - 4	6
+*	Multiplicação	6 * 2	12
+/	Divisão	10 / 2	5
+
+Repare que, em programação, usamos * para multiplicação e / para divisão.
+2. Como isso funciona na prática?
+Imagine que você está criando um programa para calcular a idade de alguém daqui a 5 anos.
+idade = 16futuro = idade + 5print(futuro)
+
+
+
+O resultado seria:
+21
+
+
+Vamos entender cada parte:
+- idade = 16 → guardamos o número 16 na variável idade.
+- futuro = idade + 5 → pegamos o valor de idade, somamos 5 e guardamos em futuro.
+- print(futuro) → mostramos o resultado na tela.
+3. Mais exemplos
+saldo = 100compra = 35restante = saldo - compraprint(restante)
+
+
+
+Resultado:
+65
+
+
+O programa calculou quanto sobrou do saldo depois da compra.
