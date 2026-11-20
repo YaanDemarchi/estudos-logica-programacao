@@ -1,4 +1,4 @@
-IF - Exercicio
+IF / else- Exercicio
 
 idade=18
 
