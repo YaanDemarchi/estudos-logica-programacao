@@ -1,0 +1,25 @@
+AULA 02 
+
+idade = 16
+futuro = idade + 5
+
+print(futuro)
+
+AULA 03
+
+soma = numero1 + numero2
+subtracao = numero1 - numero2
+multiplicacao = numero1 * numero2
+divisao = numero1 / numero2
+
+print(soma)
+print(subtracao)
+print(multiplicacao)
+print(divisao)
+
+AULA 04 
+
+numero = 25
+resultado = numero % 2 
+
+print(resultado)
