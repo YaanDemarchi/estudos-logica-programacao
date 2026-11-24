@@ -28,3 +28,6 @@ Quero que você crie um programa que:
 3. Mostre o contador na tela.
 4. Aumente o contador de 1 em 1.
 Tente fazer sozinho, usando o que acabamos de aprender. Não precisa ter pressa. Se der erro, pode me mandar o código que corrigimos juntos, como fizemos nas aulas anteriores.
+
+
+O while precisa estar alinhado com o contador = 1. Já o print() e o incremento precisam ficar recuados, pois estão dentro do while.
