@@ -49,3 +49,37 @@ while contador<=20:
     print(contador,"-Ele é um numero impar")
   contador=contador+1
 
+
+Observe os recuos (indentação):
+- contador = 0 fica no início, sem recuo.
+- while contador < 10: também fica no início.
+- print(contador) fica recuado, pois está dentro do while.
+- contador = contador + 1 também fica recuado, pois precisa ser executado em cada repetição.
+   Agora é sua vez!
+Não copie o código acima ainda. Quero que você tente escrever sozinho, seguindo estas instruções:
+1. Crie contador = 0.
+2. Faça o while repetir enquanto contador < 10.
+3. Mostre o contador com print().
+4. Aumente o contador em 1.
+Pode mandar seu código aqui que eu vou conferir com você, linha por linha, sem pular etapas. Vamos ver se você já pegou o jeito do while!
+
+
+contador = 0 
+while contador<10:
+  print(contador)
+
+  contador=contador+1
+
+
+Perfeito!!  Seu código está correto! Você acertou a estrutura do while, a condição e o incremento.
+
+Seu código:
+
+contador = 0
+
+while contador < 10:
+    print(contador)
+
+    contador = contador + 1
+
+    
