@@ -58,3 +58,31 @@ C) O programa entrará em loop infinito.
 D) O programa apresentará um erro.
 
 Qual é sua resposta? 😊
+
+R: B
+
+Resposta correta! Alternativa B. 🎉
+Muito bem! Você entendeu o decremento.
+
+Veja o que acontece:
+
+Começamos com contador = 20 e diminuímos 2 a cada repetição.
+contador = 20while contador >= 0:    print(contador)    contador = contador - 2
+
+
+
+Resultado:
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+
+Percebeu? Como começamos em 20 e diminuímos de 2 em 2, todos os números exibidos são pares.
